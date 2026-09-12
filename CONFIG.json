@@ -1,0 +1,10 @@
+{
+  "page": "A4 portrait",
+  "layout": "2 tickets side-by-side; vertical cut",
+  "cards_per_ticket": [6, 3],
+  "grid": "3 rows x 9 columns",
+  "ticket_code_length": 6,
+  "number_source": "PDF card pages; exactly 6 pages for 6-card mode or exactly 3 pages for 3-card mode",
+  "number_handling": "extract only; never generate/randomize",
+  "number_colors": "match selected template: Blue/Pink or Green/Orange"
+}
